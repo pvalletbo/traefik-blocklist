@@ -14,6 +14,5 @@ summary: Plugin
 # This is mandatory,
 # and Traefik Pilot will try to execute the plugin with the data you provide as part of its startup validity tests.
 testData:
-    block:
-        sourceRange:
-        - "1.1.1.1/32"
+    blockedranges:
+    - "1.1.1.1/32"
