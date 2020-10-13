@@ -1,4 +1,4 @@
-package block
+package traefik_blocklist
 
 import (
 	"errors"

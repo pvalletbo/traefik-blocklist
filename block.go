@@ -1,5 +1,5 @@
 // Package plugindemo a demo plugin.
-package block
+package traefik_blocklist
 
 import (
 	"context"
